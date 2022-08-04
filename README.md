@@ -1,6 +1,4 @@
 ### Oie!
-
-Meu nome é Veronica e atualmente estou cursando ciência da computação e estudando front-end.
 ##
 <div align="center">
   <a href="https://github.com/rafaballerini">
